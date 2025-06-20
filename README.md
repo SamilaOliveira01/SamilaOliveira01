@@ -18,6 +18,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamilaOliveira01&layout=compact&langs_count=6)
 
+## 📫 Como me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
 <!--
 **SamilaOliveira01/SamilaOliveira01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
